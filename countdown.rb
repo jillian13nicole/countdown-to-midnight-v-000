@@ -2,7 +2,7 @@
 
 def countdown
   counter = 10
-  while countdown < 10
-    puts "#{countdown} SECONDS!"
+  while counter < 10
+    puts "#{counter} SECONDS!"
     counter -= 1
 end
