@@ -1,8 +1,8 @@
 #write your code here
 
 def countdown
-  counter = 10
-  while counter < 10
-    puts "#{counter} SECONDS!"
-    counter -= 1
+  counntdown = 10
+  while countdown < 10
+    puts "#{countdown} SECONDS!"
+    countdown -= 1
 end
